@@ -45,20 +45,5 @@ public class Ejercicio_versiones {
 			sumatotal += sumafilas;
 		}
 		System.out.println("\t\t\t\t\t\t\t\t\t\t\t Suma Total: " +sumatotal);
-		
-		
-		
-		/*
-		
-		System.out.println( "\tColumna 0\tColumna 1\tColumna 2\tColumna 3\t Columna 4\t Columna 5");
-		for (int i = 0; i<4; i++) {
 			
-			System.out.print("Fila \t ");
-			for (int b = 0; b<5; b++) {
-				System.out.print(num [b][i]+"\t\t ");
-			}
-			System.out.println( "");
-			
-		}*/
-	
    }}
